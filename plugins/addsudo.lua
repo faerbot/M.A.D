@@ -5,7 +5,7 @@
   | | |  __/   | |_) | |_| || |  
   |_| |_|      |____/ \___/ |_|  
                                  
-KASPER  TP (BY @kasper_dev)
+KASPER  TP (BY @HMODE_RAP)
  _  __    _    ____  ____  _____ ____     _____ ____  
 | |/ /   / \  / ___||  _ \| ____|  _ \   |_   _|  _ \ 
 | ' /   / _ \ \___ \| |_) |  _| | |_) |    | | | |_) |
@@ -26,7 +26,7 @@ function reload_plugins( )
   load_plugins() 
 end 
    function run(msg, matches) 
-    if tonumber (msg.from.id) == 219844437 then --امسح ايدي وخلي ايدي ماتك
+    if tonumber (msg.from.id) == 228780431 then --امسح ايدي وخلي ايدي ماتك
        if matches[1]:lower() == "ssudo" or matches[1]:lower() == "رفع مطور" then 
           table.insert(_config.sudo_users, tonumber(matches[2])) 
       print(matches[2] ..' لـقـ(💟)ـد اصـبـ{🔸}ـح مـطـ(💠)ـور جـ{🔱}ـديـد فـي الـبـ(🤖)ـوتـ»') 
@@ -59,7 +59,7 @@ run = run
   | | |  __/   | |_) | |_| || |  
   |_| |_|      |____/ \___/ |_|  
                                  
-KASPER  TP (BY @kasper_dev)
+KASPER  TP (BY @HMODE_RAP)
  _  __    _    ____  ____  _____ ____     _____ ____  
 | |/ /   / \  / ___||  _ \| ____|  _ \   |_   _|  _ \ 
 | ' /   / _ \ \___ \| |_) |  _| | |_) |    | | | |_) |
