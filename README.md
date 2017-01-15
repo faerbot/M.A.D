@@ -53,5 +53,5 @@ redis-server
 
 🔺-----------------------------------------------🔻
 
--Dev kasper TP (BY @HMODE_RAP )
+-Dev  TP (BY @HMODE_RAP )
 -TP TEAM @HMODE_DEV_TV
