@@ -17,7 +17,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 وراها ⤵️
 
-git clone ttps://github.com/faerbot/TPSTAR.git
+git clone https://github.com/faerbot/TPSTAR.git
 
 🔺-----------------------------------------------🔻
 
