@@ -1,4 +1,4 @@
-شرح تنصيب بوت TP BOT 
+شرح تنصيب بوت TPSTAR
 من احدث اقوا بوتات التلي 
 سورس عربي انكلش
 تابع الشرح......⤵️
@@ -17,13 +17,13 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 وراها ⤵️
 
-git clone https://github.com/ibr773/TPBOT.git
+git clone ttps://github.com/faerbot/TPSTAR.git
 
 🔺-----------------------------------------------🔻
 
 وراها ⤵️
 
-cd TPBOT
+cd TPSTAR
 
 🔺-----------------------------------------------🔻
 
@@ -53,5 +53,5 @@ redis-server
 
 🔺-----------------------------------------------🔻
 
--Dev kasper TP (BY @kasper_dev )
--TP TEAM @Dev_kasper
+-Dev kasper TP (BY @HMODE_RAP )
+-TP TEAM @HMODE_DEV_TV
