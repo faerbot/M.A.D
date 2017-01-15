@@ -1,4 +1,4 @@
-﻿--@deve_poent and ch @DEV_s_o
+﻿--@hmode_rap and ch @hmode_dev_tv
 do
 
 
@@ -170,4 +170,4 @@ return {
 
 
 end
---@deve_poent and ch @DEV_s_o
+--@hmode_rap and ch @hmode_dev_tv
