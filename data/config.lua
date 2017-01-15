@@ -4,7 +4,7 @@ do local _ = {
     "plugins",
     "supergroup",
     "msg_checks",
-    "lock_fwd",
+    "FWD",
     "addsudo",
     "newgroup",
     "anti_spam",
