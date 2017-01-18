@@ -8,7 +8,6 @@ do local _ = {
     "addsudo",
     "newgroup",
     "anti_spam",
-    "قفل المحادثه ع وقت", 
     "azan",
     "banhammer",
     "broadcast",
@@ -47,7 +46,8 @@ do local _ = {
     "lock_join",
     "info",
     "lock_kds",
-    "lockedit"
+    "lockedit",
+    "قفل المحادثه ع وقت"
   },
   help_text = "",
   help_text_realm = "",
