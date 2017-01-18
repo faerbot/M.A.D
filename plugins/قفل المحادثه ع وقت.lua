@@ -1,4 +1,11 @@
-do 
+do
+ ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
+▀▄ ▄▀                                      ▀▄ ▄▀ 
+▀▄ ▄▀    BY ahmad       (@hmode_rap)        ▀▄ ▄▀ 
+▀▄ ▄▀     BY ahmad      (@barko_b)          ▀▄ ▄▀ 
+▀▄ ▄▀ Making the file by hmode              ▀▄ ▄▀   
+▀▄ ▄▀                                      ▀▄ ▄▀ 
+▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 local function pre_process(msg) 
  local hash = 'muteall:'..msg.to.id 
   if redis:get(hash) and msg.to.type == 'channel' and not is_momod(msg)  then 
