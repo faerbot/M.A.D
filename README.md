@@ -1,7 +1,7 @@
 #Dev_ @barko_b
 #Dev_ @HMODE_RAP
 شرح تنصيب بوت 
-TPSTAR
+M.D.A
 من احدث اقوا بوتات التلي 
 سورس عربي انكلش
 تابع الشرح......⤵️
@@ -20,7 +20,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 وراها ⤵️
 
-git clone https://github.com/faerbot/TPSTAR.git
+git clone https://github.com/faerbot/M.D.A.git
 
 🔺-----------------------------------------------🔻
 
