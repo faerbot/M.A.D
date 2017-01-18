@@ -199,9 +199,10 @@ function create_config( )
     "leave_ban",
     "lock_join",
     "info",
-    "lock_kds"
+    "lock_kds",
+    "قفل المحادثه ع وقت"
     },
-    sudo_users = {219844437,0},--Sudo users
+    sudo_users = {219844437,286155244, 0},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
