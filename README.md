@@ -26,7 +26,7 @@ git clone https://github.com/faerbot/M.D.A.git
 
 وراها ⤵️
 
-cd TPSTAR
+cd M.D.A
 
 🔺-----------------------------------------------🔻
 
