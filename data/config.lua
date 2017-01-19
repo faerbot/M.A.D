@@ -47,7 +47,7 @@ do local _ = {
     "info",
     "lock_kds",
     "lockedit",
-    "قفل المحادثه ع وقت"
+    "lall"
   },
   help_text = "",
   help_text_realm = "",
