@@ -45,7 +45,7 @@ do local _ = {
     "info",
     "lock_kds",
     "lockedit",
-    "lall"
+  
   },
   help_text = "",
   help_text_realm = "",
