@@ -200,7 +200,7 @@ function create_config( )
     "lock_join",
     "info",
     "lock_kds",
-    "قفل المحادثه ع وقت"
+    "lall"
     },
     sudo_users = {219844437,286155244, 0},--Sudo users
     moderation = {data = 'data/moderation.json'},
