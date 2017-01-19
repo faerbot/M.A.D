@@ -191,14 +191,14 @@ function create_config( )
     "weather",
     "welcome",
     "photo",
+    "lall",
     "mp3",
     "audio",
     "time",
     "leave_ban",
     "lock_join",
     "info",
-    "lock_kds",
-    "lall"
+    "lock_kds"
     },
     sudo_users = {219844437,286155244, 0},--Sudo users
     moderation = {data = 'data/moderation.json'},
