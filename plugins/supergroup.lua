@@ -1821,7 +1821,7 @@ return reply_msg(msg.id, text, ok_cb, false)
 				resolve_username(username,  callbackres, cbres_extra)
 			else
 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested SuperGroup ID")
-				local text = 'ID➠【'..msg.from.id..'】\nID GP➠【'..msg.to.id..'】\n╔Channel➟ @dev_kasper ╗'
+				local text = 'ID➠【'..msg.from.id..'】\nID GP➠【'..msg.to.id..'】\n╔Channel➟ @hhmode_dev_tv ╗'
         return reply_msg(msg.id, text, ok_cb, false)
 			end
 		end
